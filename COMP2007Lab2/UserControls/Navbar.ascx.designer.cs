@@ -10,15 +10,24 @@
 namespace COMP2007Lab2 {
     
     
-    public partial class Default {
+    public partial class Navbar {
         
         /// <summary>
-        /// Jumbotron1 control.
+        /// home control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::COMP2007Lab2.UserControls.Jumbotron Jumbotron1;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl home;
+        
+        /// <summary>
+        /// contact control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl contact;
     }
 }

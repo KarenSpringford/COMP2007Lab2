@@ -1,5 +1,5 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="COMP2007Lab2.Site" %>
-
+<%@ Register Src="~/UserControls/Navbar.ascx" TagName="Navbar" TagPrefix="bs3" %>
 <!DOCTYPE html>
 
 <html lang="en">
@@ -20,7 +20,7 @@
 
 <body>
     <form id="form1" runat="server">
-    
+    <bs3:Navbar ID="MainNav" runat="server" />
         
         
         <div>
