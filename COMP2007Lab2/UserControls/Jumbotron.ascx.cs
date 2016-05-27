@@ -11,7 +11,7 @@ namespace COMP2007Lab2.UserControls
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+           
         }
     }
 }

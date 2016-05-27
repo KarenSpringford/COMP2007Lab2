@@ -1,5 +1,5 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Navbar.ascx.cs" Inherits="COMP2007Lab2.Navbar" %>
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-inverse">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -9,7 +9,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="Default.aspx"><i class="fa fa-heart fa-lg"></i></a>
+            <a class="navbar-brand" href="Default.aspx"><i class="fa fa-heart fa-lg" aria-hidden="true"></i>  KS</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -17,9 +17,9 @@
             <ul class="nav navbar-nav navbar-right">
                 <li id="home" runat="server"><a href="Default.aspx"><i class="fa fa-home fa-lg"></i> Home</a></li>
                 <li id="contact" runat="server"><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i> Contact</a></li>
-                <li><a href="#"><i class="fa fa-rocket fa-lg"></i> Services</a></li>
+                <!--- <li><a href="#"><i class="fa fa-rocket fa-lg"></i> Services</a></li>
                 <li><a href="#"><i class="fa fa-paper-plane-o fa-lg"></i> Projects</a></li>
-                <li><a href="#"><i class="fa fa-thumbs-o-up fa-lg"></i> References</a></li>
+                <li><a href="#"><i class="fa fa-thumbs-o-up fa-lg"></i> References</a></li> -->
 
             </ul>
 

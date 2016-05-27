@@ -5,3 +5,10 @@ G:\Workspace\EnterpriseComp\COMP2007Lab2\COMP2007Lab2\bin\AspNet.ScriptManager.j
 G:\Workspace\EnterpriseComp\COMP2007Lab2\COMP2007Lab2\obj\Debug\COMP2007Lab2.csprojResolveAssemblyReference.cache
 G:\Workspace\EnterpriseComp\COMP2007Lab2\COMP2007Lab2\obj\Debug\COMP2007Lab2.dll
 G:\Workspace\EnterpriseComp\COMP2007Lab2\COMP2007Lab2\obj\Debug\COMP2007Lab2.pdb
+C:\Users\Karen\Source\Repos\COMP2007Lab2\COMP2007Lab2\bin\COMP2007Lab2.dll.config
+C:\Users\Karen\Source\Repos\COMP2007Lab2\COMP2007Lab2\bin\COMP2007Lab2.dll
+C:\Users\Karen\Source\Repos\COMP2007Lab2\COMP2007Lab2\bin\COMP2007Lab2.pdb
+C:\Users\Karen\Source\Repos\COMP2007Lab2\COMP2007Lab2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Karen\Source\Repos\COMP2007Lab2\COMP2007Lab2\obj\Debug\COMP2007Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Karen\Source\Repos\COMP2007Lab2\COMP2007Lab2\obj\Debug\COMP2007Lab2.dll
+C:\Users\Karen\Source\Repos\COMP2007Lab2\COMP2007Lab2\obj\Debug\COMP2007Lab2.pdb
