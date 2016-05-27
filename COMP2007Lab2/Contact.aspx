@@ -23,8 +23,8 @@
                         </address>
                     </div>
                 </div>
-            </div>     
-            <div class="col-md-6">          
+            </div>
+            <div class="col-md-6">
                 <div class="form-group">
                     <label class="control-label" for="form-group-input">First Name</label>
                     <asp:TextBox runat="server" CssClass="form-control" ID="FirstNameTextBox" placeholder="First Name" required="true"></asp:TextBox>
@@ -59,7 +59,7 @@
                 </div>
                 <div class="text-right">
                     <a class="btn btn-warning btn-lg" id="CancelButton" href="Default.aspx">Cancel</a>
-                    <asp:Button runat="server" CssClass="btn btn-primary btn-lg" ID="SendButton" Text="Send" OnClick="SendButton_Click" />
+                    <asp:Button runat="server" CssClass="btn btn-primary btn-lg" ID="SendButton" Text="Send" OnClick="SendButton_Click" CausesValidation="true" />
 
                 </div>
             </div>
