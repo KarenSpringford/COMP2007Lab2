@@ -22,6 +22,15 @@ namespace COMP2007Lab2 {
         protected global::System.Web.UI.WebControls.TextBox FirstNameTextBox;
         
         /// <summary>
+        /// RequiredFieldValidator1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator1;
+        
+        /// <summary>
         /// LastNameTextBox control.
         /// </summary>
         /// <remarks>
@@ -29,6 +38,15 @@ namespace COMP2007Lab2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox LastNameTextBox;
+        
+        /// <summary>
+        /// RequiredFieldValidator2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator2;
         
         /// <summary>
         /// EmailTextBox control.
@@ -40,6 +58,15 @@ namespace COMP2007Lab2 {
         protected global::System.Web.UI.WebControls.TextBox EmailTextBox;
         
         /// <summary>
+        /// Email control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator Email;
+        
+        /// <summary>
         /// ContactNumberTextBox control.
         /// </summary>
         /// <remarks>
@@ -47,6 +74,15 @@ namespace COMP2007Lab2 {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox ContactNumberTextBox;
+        
+        /// <summary>
+        /// ContactNumber control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator ContactNumber;
         
         /// <summary>
         /// MessageTextBox control.
@@ -58,13 +94,13 @@ namespace COMP2007Lab2 {
         protected global::System.Web.UI.WebControls.TextBox MessageTextBox;
         
         /// <summary>
-        /// CancelButton control.
+        /// Message control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button CancelButton;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator Message;
         
         /// <summary>
         /// SendButton control.
